@@ -6,7 +6,7 @@
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
   "umd:main": "dist/index.umd.js",
-  "repository": "https://github.com/gfmio/fluent-builder.git",
+  "repository": "https://github.com/gfmio/fluent-object-builder.git",
   "author": {
     "name": "Frédérique Mittelstaedt",
     "email": "npm@gfm.io",
